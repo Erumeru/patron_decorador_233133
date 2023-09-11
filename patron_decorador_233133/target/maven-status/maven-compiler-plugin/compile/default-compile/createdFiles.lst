@@ -4,8 +4,8 @@ org\itson\patron_decorador_233133\bebidas\IBebida.class
 org\itson\patron_decorador_233133\bebidas\Chocolate.class
 org\itson\patron_decorador_233133\bebidas\Decaf.class
 org\itson\patron_decorador_233133\bebidas\CondimentoDecorador.class
-org\itson\patron_decorador_233133\bebidas\Principal.class
 org\itson\patron_decorador_233133\bebidas\Bebida.class
+org\itson\patron_decorador_233133\bebidas\Main.class
 org\itson\patron_decorador_233133\bebidas\Soya.class
 org\itson\patron_decorador_233133\bebidas\CremaBatida.class
 org\itson\patron_decorador_233133\bebidas\Expresso.class
